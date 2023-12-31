@@ -4,8 +4,8 @@ body {
     font-family: 'Helvetica Neue', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #F9F6EE;
-    color: #333;
+    background-color: #0d293a;
+    color: aliceblue;
 }
 
 .logo {
@@ -19,7 +19,7 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #F9F6EE;
+    background-color: #0d293a;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 5px 5%;
     display: flex;
@@ -50,7 +50,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: #333;
+    color: #F9F6EE;
     transition: color 0.3s;
 }
 
@@ -79,7 +79,7 @@ header {
  }
 
 h2 {
-    color: rgb(46, 44, 44);
+    color: #f0eff0;
     text-align: center;
     margin-top: 40px;
     font-size: 70px;
@@ -118,7 +118,8 @@ input, textarea, button {
     box-sizing: border-box;
     border-radius: 5px;
     border: 1px solid #ccc;
-    background-color: #f5f5f5;
+    background-color: #F5F5F4;
+    font-family: 'Poppins', sans-serif;
 }
 
 button {
