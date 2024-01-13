@@ -231,6 +231,18 @@ html {
     scroll-behavior: smooth;
 }
 
+#about-me p{
+    padding: 0px 120px 0px 120px;
+}
+
+#use-cases-results p{
+    padding: 0px 120px 0px 120px;
+}
+
+#contact p{
+    padding: 0px 120px 0px 120px;
+}
+
 p {
     padding: 10px 20px 10px 20px;
     text-align: left;
